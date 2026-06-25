@@ -8,7 +8,7 @@ Copyright © 2017
 
 Ellen G. White Estate, Inc. Information about this Book
 
-Overview
+[overview] 
 
 This eBook is provided by the Ellen G. White Estate. It is included
 
@@ -392,7 +392,7 @@ Chapter 87—“To My Father, and Your Father” . . . . . . . . . . . . 725
 
 
 
-Chapter 1—“God With Us” [18]
+[Chapter] 1—“God With Us” [18]
 
 “His name shall be called Immanuel, ... God with us.” “The light
 
